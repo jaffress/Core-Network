@@ -115,7 +115,7 @@ spanning-tree vlan 10,20 priority 4096
 
 ---
 
-## 🧪 Validation du Plan de Continuité d'Activité
+## Validation du Plan de Continuité d'Activité
 
 ### 1. Protocole de Certification
 - **Test ICMP (Ping)** : Validation des routes statiques et SVIs entre les segments 10 et 20.
