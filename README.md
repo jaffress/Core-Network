@@ -4,12 +4,12 @@
 
 ---
 
-## 📄 Présentation du Projet
+## Présentation du Projet
 
 Ce projet expose la conception et l'implémentation d'une infrastructure réseau robuste et hautement disponible, simulée via l'environnement Cisco Packet Tracer.
 ![Topologie Réseau](images/pkt.png)
 
-## 🎯 Objectifs Techniques & Stratégiques
+## Objectifs Techniques & Stratégiques
 
 - **Segmentation Logique** : Isolation des flux critiques (PROD) et des flux utilisateurs (USERS) pour renforcer la sécurité et optimiser la bande passante.
 - **Routage Inter-VLAN Haute Performance** : Utilisation de commutateurs de Niveau 3 pour décharger les fonctions de routage (Offloading) et réduire la latence.
@@ -18,7 +18,7 @@ Ce projet expose la conception et l'implémentation d'une infrastructure réseau
 
 ---
 
-## 🏗 Architecture & Spécifications
+## Architecture & Spécifications
 
 ### 1. Topologie Matérielle
 - **Cœur/Distribution** : 2x Cisco Multilayer Switch 3650 (Multi-couches).
